@@ -35,23 +35,23 @@
 
 ## 🚀 Featured Projects
 
-### 1. [Project Name](https://github.com/yourusername/project-repo)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge)](https://your-project-demo.com)
+### 1. [Weathers.io](https://github.com/yourusername/project-repo)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge)](https://trash-code01.github.io/weather.io/)
 
 ✨ **Tech Stack**: 
-`React` `GSAP` `Node.js` `MongoDB`
+`Html` `Css` `Tailwind` `Js` `Gsap Lenis Weather API` 
 
-A responsive web application featuring smooth animations and full-stack functionality...
+A fully functional weather and air quality forecasting web application built using modern web technologies. It fetches real-time data from APIs to provide accurate weather forecasts and air quality indexes (AQI) for any city worldwide.
 
 ---
 
-### 2. [Project Name](https://github.com/yourusername/project-repo)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge)](https://your-project-demo.com)
+### 2. [Influncer Web](https://github.com/yourusername/project-repo)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge)]( https://trash-code01.github.io/Influncerweb/Index.html)
 
 ✨ **Tech Stack**: 
-`Tailwind CSS` `Express.js` `Pug` `ScrollTrigger`
+`Tailwind CSS` `HTML` `Js` `ScrollTrigger` `GSAP` `Lenis`
 
-An interactive dashboard with real-time data visualization...
+A visually engaging modern website featuring Lenis-powered smooth scrolling, custom animated cursors, and scroll-triggered animations for an immersive user experience.
 
 ---
 
