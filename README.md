@@ -55,7 +55,7 @@ A visually engaging modern website featuring Lenis-powered smooth scrolling, cus
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=default&border_radius=5)](https://git.io/streak-stats)
 
