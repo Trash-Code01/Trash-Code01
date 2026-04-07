@@ -1,75 +1,141 @@
-# 👋 Hi, I'm Laraib Asjed
 
-**`Frontend Developer | Full Stack Enthusiast | Creative Web Crafter`**
+👋 Hi, I'm Laraib Asjed
 
-[![Portfolio Shield](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+Founder @ Devacia • Full Stack Architect • SaaS & AI Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=000000&width=600&lines=Founder+of+Devacia;Building+AI+SaaS+Products;Full+Stack+Developer;Automation+%26+Admin+Panel+Expert;Premium+Animated+Web+Experiences" />
+---
+
+🚀 About Me
+
+🏢 Founder of Devacia
+
+⚡ Building AI-powered SaaS platforms
+
+🎯 Custom Admin Panels & Lead Systems
+
+🔔 Real-time notification automation
+
+📱 App-like web experiences
+
+🧠 Full-stack product architecture
+
+🤖 AI + Automation integrations
+
+
 
 ---
 
-###🛠️ Technical Arsenal
+🧠 Tech Stack
 
-### **Frontend Craft**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+Frontend
 
-### **Backend Mastery**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+</p>Backend
 
-### **Creative Toolkit**
-![Framer Motion](https://img.shields.io/badge/Lenis-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMkM2LjQ4NiAyIDIgNi40ODYgMiAxMnM0LjQ4NiAxMCAxMCAxMCAxMC00LjQ4NiAxMC0xMFMxNy41MTQgMiAxMiAyem0wIDE4Yy00LjQxMSAwLTgtMy41ODktOC04IDAtNC40MTEgMy41ODktOCA4LTggNC40MTEgMCA4IDMuNTg5IDggOCAwIDQuNDExLTMuNTg5IDgtOCA4eiIvPjxwYXRoIGQ9Ik04IDExaDh2Mkg4eiIvPjwvc3ZnPg==)
-![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-000?style=for-the-badge&logo=greensock&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>Animation & UI
 
-### **Dev Tools**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAvUlEQVR4nGNgGAVDGjAyMjL8Z2Bg+M+AAvhPBB1iYGD4j4UeOIAYwDQgNjaW4c+fPwwfP35k+PXrF8k0iAHEApgG/P79m+HPnz8Mv379Yvj58yfJNIgBxAKYBoB88P//f5JpEAOIBTANAPkC5BOSaRADiAUwA0C+ABkE8g3IQFJomC9ABhHrE5hBIF+ADCLWJzCDQL4AGUSsT2AGgXwBMohYn8AMAvkCZBCxPoEZBPIFyCBSfEEyDQDcTQw4ZvZ3pAAAAABJRU5ErkJggg==)
+<p>
+<img src="https://img.shields.io/badge/GSAP-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ScrollTrigger-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Lenis-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge" />
+</p>Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+</p>
+---
+
+🏢 Devacia Focus
+
++ AI SaaS Platforms
++ Lead Generation Systems
++ Business Admin Panels
++ Automation Dashboards
++ Premium Animated Websites
++ Custom CRM Systems
++ E-commerce Architecture
+
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-### 1. [Weathers.io](https://github.com/yourusername/project-repo)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge)](https://trash-code01.github.io/weather.io/)
+🌦 Weather.io
 
-✨ **Tech Stack**: 
-`Html` `Css` `Tailwind` `Js` `Gsap Lenis Weather API` 
+🔗 https://trash-code01.github.io/weather.io/
 
-A fully functional weather and air quality forecasting web application built using modern web technologies. It fetches real-time data from APIs to provide accurate weather forecasts and air quality indexes (AQI) for any city worldwide.
+Modern weather & AQI dashboard with smooth animation and API integration.
+
+Tech:
+
+HTML • CSS • Tailwind • JavaScript • GSAP • Lenis • Weather API
+
 
 ---
 
-### 2. [Influncer Web](https://github.com/yourusername/project-repo)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge)]( https://trash-code01.github.io/Influncerweb/Index.html)
+🎯 Influencer Web
 
-✨ **Tech Stack**: 
-`Tailwind CSS` `HTML` `Js` `ScrollTrigger` `GSAP` `Lenis`
+🔗 https://trash-code01.github.io/Influncerweb/Index.html
 
-A visually engaging modern website featuring Lenis-powered smooth scrolling, custom animated cursors, and scroll-triggered animations for an immersive user experience.
+Premium animated landing page with scroll storytelling.
+
+Tech:
+
+Tailwind • GSAP • ScrollTrigger • Lenis • JavaScript
+
 
 ---
 
-# 📈 GitHub Stats
+📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=default&border_radius=5)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=trash-code01&show_icons=true&hide_border=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=trash-code01&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trash-code01&layout=compact&hide_border=true" />
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+🌐 Connect
 
---
+<p>
+<a href="https://devacia.com">
+<img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a><a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:laraibl767@gmail.com">
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+---
 
-## 📫 Let's Connect
+⚡ Founder Philosophy
 
-- 📧 **Email**: (laraibl767@gmail.com)
-- 💼 **LinkedIn**: [Laraib Asjed](https://linkedin.com/in/yourprofile)
-- 🐦 **Twitter**: [](https://twitter.com/yourhandle)
- 
+const laraib = {
+ role: "Founder",
+ company: "Devacia",
+ builds: ["AI SaaS", "Admin Panels", "Automation Systems"],
+ focus: "Business Impact",
+ style: "Premium + Scalable",
+}
+
+
+---
+
+🧠 Currently Building
+
+Devacia AI SaaS Platform
+
+Lead Automation Dashboard
+
+Admin Panel Framework
+
+Real-time Notification System
+
+Premium Animated Components
 
 
 
-⭐ **Fun Fact**: I breathe `{ code }` and dream in `#CSS` gradients!
+---
+
+⭐ Building products that generate revenue, not just websites.
