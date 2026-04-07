@@ -61,7 +61,7 @@ A visually engaging modern website featuring Lenis-powered smooth scrolling, cus
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
----
+--
 
 ## 📫 Let's Connect
 
