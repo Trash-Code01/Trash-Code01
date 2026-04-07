@@ -1,141 +1,109 @@
+👋 Laraib Asjed
 
-👋 Hi, I'm Laraib Asjed
+Founder @ Devacia • Full Stack • AI SaaS Architect
 
-Founder @ Devacia • Full Stack Architect • SaaS & AI Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=000000&width=600&lines=Founder+of+Devacia;Building+AI+SaaS+Products;Full+Stack+Developer;Automation+%26+Admin+Panel+Expert;Premium+Animated+Web+Experiences" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=E8FF47&center=true&vCenter=true&width=900&lines=Founder+of+Devacia;Building+AI+SaaS+Platforms;Admin+Panel+Architect;Three.js+%2B+GSAP+Developer;Automation+%26+Lead+Systems" />
+</p>
 ---
 
-🚀 About Me
+⚡ Devacia
 
-🏢 Founder of Devacia
-
-⚡ Building AI-powered SaaS platforms
-
-🎯 Custom Admin Panels & Lead Systems
-
-🔔 Real-time notification automation
-
-📱 App-like web experiences
-
-🧠 Full-stack product architecture
-
-🤖 AI + Automation integrations
-
+High‑performance SaaS, admin panels, and AI automation systems.
+I build scalable digital infrastructure — not template websites.
 
 
 ---
 
-🧠 Tech Stack
+🧠 Tech Arsenal
 
 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
-</p>Backend
+<img src="https://skillicons.dev/icons?i=react,next,js,ts,tailwind,html,css" />
+</p>Animation & 3D
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>Animation & UI
-
-<p>
+<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GSAP-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ScrollTrigger-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Lenis-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge" />
-</p>Tools
+</p>Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 ---
 
-🏢 Devacia Focus
+🚀 What I Build
 
 + AI SaaS Platforms
-+ Lead Generation Systems
-+ Business Admin Panels
++ Custom Admin Panels
++ Lead Management Systems
 + Automation Dashboards
 + Premium Animated Websites
-+ Custom CRM Systems
-+ E-commerce Architecture
++ B2B Platforms
++ E‑commerce Architecture
 
 
 ---
 
-🚀 Featured Projects
+🚀 Featured Work
 
-🌦 Weather.io
+🧠 Devacia AI Platform
 
-🔗 https://trash-code01.github.io/weather.io/
+Admin dashboard + automation + lead tracking
 
-Modern weather & AQI dashboard with smooth animation and API integration.
+🛒 Luxury E‑commerce Systems
 
-Tech:
+Premium animated conversion‑focused stores
 
-HTML • CSS • Tailwind • JavaScript • GSAP • Lenis • Weather API
+📊 B2B Lead Platforms
 
-
----
-
-🎯 Influencer Web
-
-🔗 https://trash-code01.github.io/Influncerweb/Index.html
-
-Premium animated landing page with scroll storytelling.
-
-Tech:
-
-Tailwind • GSAP • ScrollTrigger • Lenis • JavaScript
+Real‑time notifications + mobile admin
 
 
 ---
 
-📊 GitHub Stats
+📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=trash-code01&show_icons=true&hide_border=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=trash-code01&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trash-code01&layout=compact&hide_border=true" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=trash-code01&show_icons=true&theme=dark&hide_border=true" />
+</p><p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trash-code01&theme=dark&hide_border=true" />
+</p><p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trash-code01&layout=compact&theme=dark&hide_border=true" />
+</p>
 ---
 
 🌐 Connect
 
 <p>
 <a href="https://devacia.com">
-<img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a><a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=vercel" />
 </a><a href="mailto:laraibl767@gmail.com">
-<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
+</a><a href="https://github.com/trash-code01">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 </p>
 ---
 
 ⚡ Founder Philosophy
 
-const laraib = {
- role: "Founder",
- company: "Devacia",
- builds: ["AI SaaS", "Admin Panels", "Automation Systems"],
- focus: "Business Impact",
- style: "Premium + Scalable",
+const devacia = {
+ founder: "Laraib Asjed",
+ focus: "AI SaaS",
+ builds: [
+  "Admin Panels",
+  "Automation Systems",
+  "Lead Platforms",
+  "Premium Web Apps"
+ ]
 }
 
 
 ---
 
-🧠 Currently Building
-
-Devacia AI SaaS Platform
-
-Lead Automation Dashboard
-
-Admin Panel Framework
-
-Real-time Notification System
-
-Premium Animated Components
-
-
-
----
-
-⭐ Building products that generate revenue, not just websites.
+⭐ Building systems that generate revenue, not just websites.
