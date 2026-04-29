@@ -106,4 +106,4 @@ const devacia = {
 
 ---
 
-⭐ Building systems that generate revenue, not just websites.
+⭐ Building systems that generate revenue not just websites.
